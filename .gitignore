@@ -1,0 +1,9 @@
+/build/
+.cproject
+.project
+LICENSE
+*.pem
+notes.txt
+sdkconfig.old
+*.mp3
+.vscode/
